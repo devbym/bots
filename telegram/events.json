@@ -1,0 +1,194 @@
+{
+    "events": {
+        "2022": {
+            "2": {
+                "24": {
+                    "Dondernacht": {
+                        "location": "Utrecht",
+                        "venue": "TivoliVredenburg"
+                    },
+                    "Escalada": {
+                        "location": "Amsterdam",
+                        "venue": "Disco Dolly"
+                    }
+                },
+                "25": {
+                    "Amelie Lens": {
+                        "location": "Amsterdam",
+                        "venue": "De MarktKantine"
+                    },
+                    "Another Event": {
+                        "location": "Middelburg",
+                        "venue": "Rooie Oortjes"
+                    }
+                },
+                "26": {},
+                "27": {},
+                "28": {}
+            },
+            "3": {
+                "1": {
+                    "Techno Tuesday": {
+                        "location": "Amsterdam",
+                        "venue": "Melkweg",
+                        "starttime": "23:30"
+                    },
+                    "YUMMY": {
+                        "location": "Rotterdam",
+                        "venue": "Villa Thalia",
+                        "starttime": "22:00"
+                    },
+                    "Mardi Gras": {
+                        "location": "Antwerpen",
+                        "venue": "Club Lima",
+                        "starttme": "23:00"
+                    }
+                },
+                "2": {},
+                "3": {
+                    "bambu": {
+                        "location": "Amsterdam",
+                        "venue": "Olivia",
+                        "starttime": "22:00"
+                    }
+                },
+                "4": {
+                    "30 Something": {
+                        "location": "Amsterdam",
+                        "venue": "Melkweg",
+                        "starttime": "23:00"
+                    },
+                    "5th on Friday": {
+                        "location": "Arnhem",
+                        "venue": "5th Avenue",
+                        "starttime": "22:00"
+                    }
+                },
+                "5": {},
+                "13": {
+                    "Je moeke": {
+                        "location": "Prague",
+                        "None": "None",
+                        "venue": "Je Moeder"
+                    }
+                },
+                "17": {
+                    "Bday Craze": {
+                        "location": "Praag",
+                        "venue": "City TBA",
+                        "starttime": "18:00"
+                    },
+                    "18": {
+                        "location": "Prague",
+                        "venue": "Ankali"
+                    }
+                }
+            },
+            "4": {
+                "1": {
+                    "Anormal": {
+                        "location": "Prague",
+                        "Venue": "Ankali",
+                        "Startime": "22:00"
+                    }
+                },
+                "15": {
+                    "None": "None"
+                }
+            },
+            "5": {
+                "19": {
+                    "Another Event": {
+                        "location": "Middelburg",
+                        "venue": "Rooie Oortjes"
+                    },
+                    "Another Event 2": {
+                        "location": "Middelburg",
+                        "venue": "Rooie Oortjes"
+                    },
+                    "Another Event 3": {
+                        "location": "Middelburg",
+                        "venue": "Rooie Oortjes"
+                    }
+                },
+                "20": {
+                    "Another Event 4": {
+                        "location": "Middelburg",
+                        "venue": "Rooie Oortjes"
+                    },
+                    "Another Event 5": {
+                        "location": "Prague",
+                        "venue": "Altenburg 1964"
+                    }
+                }
+            },
+            "6": {
+                "1": {},
+                "2": {},
+                "3": {
+                    "Astral Sounds Quarter meets Nightphunk": {
+                        "location": "Praha - 1",
+                        "venue": "Chapeau Rouge"
+                    },
+                    "KAS:ST": {
+                        "location": "Praha - 1",
+                        "venue": "Roxy"
+                    },
+                    "Ankali x Mala Junta x Yuggadus: D.Dan, DJ TOOL, Hyperaktivist,Alfred Czital, GiGi FM, Yan": {
+                        "location": "Prague",
+                        "venue": "Ankali"
+                    },
+                    "FUORI ORARIO: ISH live, Kind Des Geistes,Niff b2b DJ Tree, UNJACK": {
+                        "location": "Prague",
+                        "venue": "Wildt"
+                    },
+                    "HKKPTR, The Undertakers' Tapes,Hardlasksa,Demonika": {
+                        "location": "Prague",
+                        "venue": "Bike Jezus"
+                    }
+                },
+                "4": {
+                    "Shitlabel x Fuchs2 #3": {
+                        "location": "Praha - Stvanice",
+                        "venue": "Fuchs2",
+                        "description":"Hardcore banging"
+                    },
+                    "MyParty": {
+                        "location": "",
+                        "venue": "",
+                        "description": ""
+                    }
+                },
+                "5": {
+                    "Yo Momma Live": {
+                        "location": "Brno",
+                        "venue": "Club Brno",
+                        "starttime": "20:00"
+                    },
+                    "Another Event 6": {
+                        "location": "Brno",
+                        "venue": "Club Brno"
+                    }
+                }
+            },
+            "7": {
+                "1": {}
+            }
+        }
+    },
+    "organisations": [
+        "Devbym",
+        "Harmony",
+        "RAW",
+        "Wrong",
+        "Mayapur",
+        "KAVE",
+        "Komiks"
+    ],
+    "genres": [
+        "techno",
+        "electro",
+        "house",
+        "trance"
+    ]
+}
